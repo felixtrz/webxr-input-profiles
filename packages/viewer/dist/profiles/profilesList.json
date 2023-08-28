@@ -2,6 +2,9 @@
   "generic-button": {
     "path": "generic-button/profile.json"
   },
+  "generic-hand": {
+    "path": "generic-hand/profile.json"
+  },
   "generic-touchpad": {
     "path": "generic-touchpad/profile.json"
   },
@@ -38,6 +41,9 @@
   "htc-vive-cosmos": {
     "path": "htc-vive-cosmos/profile.json"
   },
+  "htc-vive-focus-3": {
+    "path": "htc-vive-focus-3/profile.json"
+  },
   "htc-vive-focus-plus": {
     "path": "htc-vive-focus-plus/profile.json"
   },
@@ -49,6 +55,9 @@
   },
   "magicleap-one": {
     "path": "magicleap-one/profile.json"
+  },
+  "meta-quest-touch-pro": {
+    "path": "meta-quest-touch-pro/profile.json"
   },
   "microsoft-mixed-reality": {
     "path": "microsoft-mixed-reality/profile.json"
@@ -69,11 +78,17 @@
   "oculus-touch": {
     "path": "oculus-touch/profile.json"
   },
+  "pico-4": {
+    "path": "pico-4/profile.json"
+  },
   "pico-g2": {
     "path": "pico-g2/profile.json"
   },
   "pico-neo2": {
     "path": "pico-neo2/profile.json"
+  },
+  "pico-neo3": {
+    "path": "pico-neo3/profile.json"
   },
   "samsung-gearvr": {
     "path": "samsung-gearvr/profile.json"
@@ -83,5 +98,8 @@
   },
   "valve-index": {
     "path": "valve-index/profile.json"
+  },
+  "yvr-touch": {
+    "path": "yvr-touch/profile.json"
   }
 }
