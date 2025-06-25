@@ -2,6 +2,9 @@
   "generic-button": {
     "path": "generic-button/profile.json"
   },
+  "generic-fixed-hand": {
+    "path": "generic-fixed-hand/profile.json"
+  },
   "generic-hand": {
     "path": "generic-hand/profile.json"
   },
@@ -53,8 +56,17 @@
   "htc-vive": {
     "path": "htc-vive/profile.json"
   },
+  "logitech-mx-ink": {
+    "path": "logitech-mx-ink/profile.json"
+  },
   "magicleap-one": {
     "path": "magicleap-one/profile.json"
+  },
+  "magicleap-two": {
+    "path": "magicleap-two/profile.json"
+  },
+  "meta-quest-touch-plus": {
+    "path": "meta-quest-touch-plus/profile.json"
   },
   "meta-quest-touch-pro": {
     "path": "meta-quest-touch-pro/profile.json"
@@ -81,6 +93,9 @@
   "pico-4": {
     "path": "pico-4/profile.json"
   },
+  "pico-4u": {
+    "path": "pico-4u/profile.json"
+  },
   "pico-g2": {
     "path": "pico-g2/profile.json"
   },
@@ -98,6 +113,9 @@
   },
   "valve-index": {
     "path": "valve-index/profile.json"
+  },
+  "yvr-touch-v2": {
+    "path": "yvr-touch-v2/profile.json"
   },
   "yvr-touch": {
     "path": "yvr-touch/profile.json"

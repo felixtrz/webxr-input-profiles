@@ -2,6 +2,9 @@
   "generic-button": {
     "path": "generic/generic-button.json"
   },
+  "generic-fixed-hand": {
+    "path": "generic/generic-fixed-hand.json"
+  },
   "generic-hand-select-grasp": {
     "path": "generic/generic-hand-select-grasp.json"
   },
@@ -62,8 +65,20 @@
   "htc-vive": {
     "path": "htc/htc-vive.json"
   },
+  "logitech-mx-ink": {
+    "path": "logitech/logitech-mx-ink.json"
+  },
   "magicleap-one": {
     "path": "magicleap/magicleap-one.json"
+  },
+  "magicleap-two": {
+    "path": "magicleap/magicleap-two.json"
+  },
+  "meta-fixed-hand": {
+    "path": "meta/meta-fixed-hand.json"
+  },
+  "meta-quest-touch-plus": {
+    "path": "meta/meta-quest-touch-plus.json"
   },
   "meta-quest-touch-pro": {
     "path": "meta/meta-quest-touch-pro.json"
@@ -78,6 +93,9 @@
   "oculus-go": {
     "path": "oculus/oculus-go.json"
   },
+  "oculus-hand": {
+    "path": "oculus/oculus-hand.json"
+  },
   "oculus-touch-v2": {
     "path": "oculus/oculus-touch-v2.json"
   },
@@ -89,6 +107,9 @@
   },
   "pico-4": {
     "path": "pico/pico-4.json"
+  },
+  "pico-4u": {
+    "path": "pico/pico-4u.json"
   },
   "pico-g2": {
     "path": "pico/pico-g2.json"
@@ -107,6 +128,9 @@
   },
   "valve-index": {
     "path": "valve/valve-index.json"
+  },
+  "yvr-touch-v2": {
+    "path": "yvr/yvr-touch-v2.json"
   },
   "yvr-touch": {
     "path": "yvr/yvr-touch.json"
