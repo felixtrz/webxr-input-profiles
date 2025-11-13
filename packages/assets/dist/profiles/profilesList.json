@@ -65,6 +65,9 @@
   "magicleap-two": {
     "path": "magicleap-two/profile.json"
   },
+  "meta-quest-touch-plus-v2": {
+    "path": "meta-quest-touch-plus-v2/profile.json"
+  },
   "meta-quest-touch-plus": {
     "path": "meta-quest-touch-plus/profile.json"
   },
@@ -104,6 +107,9 @@
   },
   "pico-neo3": {
     "path": "pico-neo3/profile.json"
+  },
+  "samsung-galaxyxr": {
+    "path": "samsung-galaxyxr/profile.json"
   },
   "samsung-gearvr": {
     "path": "samsung-gearvr/profile.json"
